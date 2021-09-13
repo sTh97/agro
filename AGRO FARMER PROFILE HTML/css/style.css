@@ -9,6 +9,15 @@ body {
 	margin: 0 auto;
 }
 
+.agro-logo{
+    display: flex;
+}
+
+.agro-img{
+    width: 200px;
+    height: 100px;
+}
+
 .article {
 	width: 1200px;
 	height: auto;
