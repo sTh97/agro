@@ -70,26 +70,28 @@ body {
     width: 300px;
     height: 40px;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #FAA506;
+    border-color: #000;
+    background-color: #6DDB49;
     color: #fff;
     font-weight: bold;
     font-size: large;
     border: none;
-    border-radius: 5px 0px 5px 0px;
-    box-shadow: 1px 1px 5px #FAA506;
+    border-radius: 5px 5px 5px 5px;
+    box-shadow: 1px 1px 5px #000;
 }
 
 .btn1{
     width: 300px;
     height: 40px;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #295497;
+    background-color: #E73802;
+    border-color: #000;
     color: #fff;
     font-size: large;
     font-weight: bold;
     border: none;
-    border-radius: 5px 0px 5px 0px;
-    box-shadow: 1px 1px 5px #295497;
+    border-radius: 5px 5px 5px 5px;
+    box-shadow: 1px 1px 5px #000;
 }
 
 .btn2:hover{
@@ -380,8 +382,8 @@ table {
 .partner{
     width: 25%;
     border-radius: 5px;
-    border-color: #FAA506;
-    background-color:antiquewhite;
+    border-color: #000;
+    background-color:#8DB3E2;
     font-size: large;
 }
 
